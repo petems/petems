@@ -1,3 +1,15 @@
+### Hello there 👋
+
+Peter Souter (Sou as in Sui-t)
+
+Currently Senior Sales Engineer at Datadog
+
+#### Jack-of-all-trades devops-y style person 
+
+- ⚙️ My tools of choice: HCL, Ruby, Golang, YAML (sigh)
+- 🧑‍🎓 Languages I'm learning: Python, Typescript
+- 🌍 I'm mostly active within the **Observability and Infrastructure as Code Community**
+
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
